@@ -1,0 +1,11 @@
+﻿# Eclipse/Java
+.classpath
+.project
+.settings/
+bin/
+target/
+*.class
+
+# OS
+Thumbs.db
+.DS_Store
